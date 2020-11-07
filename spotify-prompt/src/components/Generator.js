@@ -12,7 +12,7 @@ const Generator = (props) => {
   return (
     <div>
       <p id="prompt">{prompt}</p>
-      <button onClick={() => setPrompt(generate())}>Generate</button>
+      <button class="button" onClick={() => setPrompt(generate())}><span>Next </span></button>
     </div>
   );
 }
