@@ -2,5 +2,6 @@ export const prompts = [
     "hello",
     "testing",
     "do i work?",
-    "yes"
+    "yes",
+    "hi"
 ]
