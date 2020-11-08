@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import RefreshButton from '/Users/jiannacaronan/Desktop/spotify-prompt.github.io/spotify-prompt/src/assets/refresh.png'
+import RefreshButton from '../assets/refresh.png'
 
 const SongPicker = (props) => {
   const generate = () => {
