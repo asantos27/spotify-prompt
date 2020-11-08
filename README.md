@@ -1,2 +1,5 @@
 # spotify-prompt
-To test our web app, clone the repository, cd spotify-prompt and then run 'npm start' into the terminal
+To test our web app:
+  1. Fork the repository
+  2. cd into spotify-prompt
+  3. Then run 'npm start' into the terminal to run it locally
