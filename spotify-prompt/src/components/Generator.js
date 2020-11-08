@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { songs } from '../assets/songs';
 
 const Generator = (props) => {
   const generate = () => {
