@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import RefreshButton from '/Users/jiannacaronan/Desktop/spotify-prompt.github.io/spotify-prompt/src/assets/refresh.png'
 
 const SongPicker = (props) => {
   const generate = () => {
@@ -10,7 +11,7 @@ const SongPicker = (props) => {
   return (
     <div>
       <iframe src={songs} width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
-      <p></p><button class="button1" onClick={() => setSong(generate())}><span>Change</span></button>
+      <img src={RefreshButton} width="60" padding="2" onClick={() => setSong(generate())}></img>
     </div>
   );
 }

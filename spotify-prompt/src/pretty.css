@@ -6,6 +6,7 @@ body {
     text-align: center;
 }
 h1 {font-variant: all-small-caps;
+    width: max-content;
     font-size: 50px;
     color: #ffffff;
     margin-top: -15px;
@@ -18,10 +19,26 @@ h2 {font-size: 15px;
 p {
     font-size: 20px;
   }
+#container {
+margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .title { 
-    max-width: 560px;
     margin-left: auto;
     margin-right: auto;
+}
+#promptbox { 
+    display: block;
+    height: 150px;
+    position: relative;
+}
+#songbox { 
+    display: block;
+    height: 100px;
+    position: relative;
 }
 button {
     display: inline-block;
@@ -62,7 +79,7 @@ button {
     opacity: 1;
     right: 0;
 }
-p2 {
+.p2 {
     font-size: 25px;
     color: #ffffff;
     margin-top: -15px;
@@ -72,4 +89,25 @@ p2 {
     max-width: 500px;
     margin-left: auto;
     margin-right: auto;
+}
+.button1 {
+    padding: 10px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+.button1:hover span {
+    padding-right: 25px;
+  }
+
+.button1:hover span:after {
+    opacity: 1;
+    right: 0;
 }
