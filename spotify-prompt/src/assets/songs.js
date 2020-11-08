@@ -1,4 +1,17 @@
 export const songs = [
     "https://embed.spotify.com/?uri=spotify:track:5C5LG3t9HGtz6opYch8uXj&amp;theme=white&amp;view=coverart",
-    "https://embed.spotify.com/?uri=spotify:track:6HSqyfGnsHYw9MmIpa9zlZ&amp;theme=white&amp;view=coverart"
+    "https://embed.spotify.com/?uri=spotify:track:6HSqyfGnsHYw9MmIpa9zlZ&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:1UYj8qTWjneZJDVjUMwMub&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:2JvzF1RMd7lE3KmFlsyZD8&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:4cnqxdE2opmhp7MwkvhkAJ&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:5HQVUIKwCEXpe7JIHyY734&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:0b9oOr2ZgvyQu88wzixux9&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:6qspW4YKycviDFjHBOaqUY&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:1ZMiCix7XSAbfAJlEZWMCp&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:4jXl6VtkFFKIt3ycUQc5LT&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:2is19a6HY7ZdWP654IMhEE&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:5KCbr5ndeby4y4ggthdiAb&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:76t5B0ttSAje5KHmQbv88t&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:2GiJYvgVaD2HtM8GqD9EgQ&amp;theme=white&amp;view=coverart",
+    "https://embed.spotify.com/?uri=spotify:track:0QIjsbm2fh1cJ45XO9eGqq&amp;theme=white&amp;view=coverart",
 ]
