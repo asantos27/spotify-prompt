@@ -11,7 +11,7 @@ const SongPicker = (props) => {
   return (
     <div>
       <iframe src={songs} width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
-      <img src={RefreshButton} width="60" padding="2" onClick={() => setSong(generate())}></img>
+      <img src={RefreshButton} width="60" className="pad" onClick={() => setSong(generate())}></img>
     </div>
   );
 }
